@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+}
+
+.container{
+    width: 40%;
+    margin: 155px auto;
+    border-radius: 20px;
+    padding: 20px;
+    text-align: center;
+    background-color: #FFF;
+}
+
+.container input{
+    margin: 10px;
+    padding: 15px;
+    width: 50%;
+}
+
+.container button{
+    padding: 20px;
+    width: 150px;
+    background-color:green;
+    border: none;
+    border-radius: 5px;
+    font-weight: bold;
+    font-size: 20px;
+    color:white;
+}
+
+.messages{
+    width: auto;
+    margin: 10px;
+    border-radius: 10px;
+    padding: 20px;
+    text-align: left;
+    background-color: #B0E0E6;
+}
